@@ -1,0 +1,90 @@
+{
+  "checksum": {
+    "previous": "7e7bb45bee0e3d0bdd8c82bf873ccd48bc9bd55188bf555fe132b0246b703ba6",
+    "current": "7e7bb45bee0e3d0bdd8c82bf873ccd48bc9bd55188bf555fe132b0246b703ba6"
+  },
+  "fonts": [
+    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.ttf",
+    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.svg",
+    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.woff",
+    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.eot"
+  ],
+  "glyphs": {
+    "app-location": {
+      "codepoint": 61696,
+      "source": "../src/set/app-location.svg"
+    },
+    "app-logo": {
+      "codepoint": 61697,
+      "source": "../src/set/app-logo.svg"
+    },
+    "app-pocket": {
+      "codepoint": 61698,
+      "source": "../src/set/app-pocket.svg"
+    },
+    "carret-down": {
+      "codepoint": 61699,
+      "source": "../src/set/carret-down.svg"
+    },
+    "carret-left": {
+      "codepoint": 61700,
+      "source": "../src/set/carret-left.svg"
+    },
+    "carret-right": {
+      "codepoint": 61701,
+      "source": "../src/set/carret-right.svg"
+    },
+    "carret-up": {
+      "codepoint": 61702,
+      "source": "../src/set/carret-up.svg"
+    },
+    "clock": {
+      "codepoint": 61703,
+      "source": "../src/set/clock.svg"
+    },
+    "more": {
+      "codepoint": 61704,
+      "source": "../src/set/more.svg"
+    },
+    "sandwich": {
+      "codepoint": 61705,
+      "source": "../src/set/sandwich.svg"
+    },
+    "search": {
+      "codepoint": 61706,
+      "source": "../src/set/search.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "wingo",
+    "force": false,
+    "input": {
+      "templates": "../src/set/",
+      "vectors": "../src/set/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "wingo",
+      "fonts": "wingo",
+      "preview": "wingo"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "wingo/wingo.css",
+    "wingo/wingo-preview.html"
+  ]
+}
