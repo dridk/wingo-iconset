@@ -1,26 +1,26 @@
 {
   "checksum": {
-    "previous": "7e7bb45bee0e3d0bdd8c82bf873ccd48bc9bd55188bf555fe132b0246b703ba6",
-    "current": "7e7bb45bee0e3d0bdd8c82bf873ccd48bc9bd55188bf555fe132b0246b703ba6"
+    "previous": "a9cc08a4f0a074932dea21ae350f4479edcd94c6c88cac2620228376bc019599",
+    "current": "a9cc08a4f0a074932dea21ae350f4479edcd94c6c88cac2620228376bc019599"
   },
   "fonts": [
-    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.ttf",
-    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.svg",
-    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.woff",
-    "wingo/wingo_7e7bb45bee0e3d0bdd8c82bf873ccd48.eot"
+    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.ttf",
+    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.svg",
+    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.woff",
+    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.eot"
   ],
   "glyphs": {
-    "app-location": {
-      "codepoint": 61696,
-      "source": "../src/set/app-location.svg"
+    "add": {
+      "codepoint": 61711,
+      "source": "../src/set/add.svg"
     },
-    "app-logo": {
-      "codepoint": 61697,
-      "source": "../src/set/app-logo.svg"
+    "archive": {
+      "codepoint": 61712,
+      "source": "../src/set/archive.svg"
     },
-    "app-pocket": {
-      "codepoint": 61698,
-      "source": "../src/set/app-pocket.svg"
+    "axe": {
+      "codepoint": 61713,
+      "source": "../src/set/axe.svg"
     },
     "carret-down": {
       "codepoint": 61699,
@@ -42,9 +42,37 @@
       "codepoint": 61703,
       "source": "../src/set/clock.svg"
     },
+    "draw": {
+      "codepoint": 61714,
+      "source": "../src/set/draw.svg"
+    },
+    "location": {
+      "codepoint": 61707,
+      "source": "../src/set/location.svg"
+    },
+    "logo": {
+      "codepoint": 61708,
+      "source": "../src/set/logo.svg"
+    },
     "more": {
       "codepoint": 61704,
       "source": "../src/set/more.svg"
+    },
+    "pin": {
+      "codepoint": 61715,
+      "source": "../src/set/pin.svg"
+    },
+    "pocket": {
+      "codepoint": 61709,
+      "source": "../src/set/pocket.svg"
+    },
+    "refresh": {
+      "codepoint": 61710,
+      "source": "../src/set/refresh.svg"
+    },
+    "remove": {
+      "codepoint": 61716,
+      "source": "../src/set/remove.svg"
     },
     "sandwich": {
       "codepoint": 61705,
@@ -53,6 +81,10 @@
     "search": {
       "codepoint": 61706,
       "source": "../src/set/search.svg"
+    },
+    "trash": {
+      "codepoint": 61717,
+      "source": "../src/set/trash.svg"
     }
   },
   "options": {
