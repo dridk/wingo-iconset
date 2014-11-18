@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "fabc25f15a797a2e4e8cdb66ea8c4d464f268192bd81620e4ddf0a6686bb4d46",
-    "current": "fabc25f15a797a2e4e8cdb66ea8c4d464f268192bd81620e4ddf0a6686bb4d46"
+    "previous": "b5ec1e127a52645104c062869e66708c3e764a4acf21218e242e4f9eda33dd55",
+    "current": "b5ec1e127a52645104c062869e66708c3e764a4acf21218e242e4f9eda33dd55"
   },
   "fonts": [
     "wingo/wingo.ttf",
@@ -38,6 +38,14 @@
       "codepoint": 61702,
       "source": "../src/set/carret-up.svg"
     },
+    "checkmark-blank": {
+      "codepoint": 61721,
+      "source": "../src/set/checkmark-blank.svg"
+    },
+    "checkmark-fill": {
+      "codepoint": 61722,
+      "source": "../src/set/checkmark-fill.svg"
+    },
     "clock": {
       "codepoint": 61703,
       "source": "../src/set/clock.svg"
@@ -45,6 +53,14 @@
     "draw": {
       "codepoint": 61714,
       "source": "../src/set/draw.svg"
+    },
+    "gear": {
+      "codepoint": 61725,
+      "source": "../src/set/gear.svg"
+    },
+    "info": {
+      "codepoint": 61726,
+      "source": "../src/set/info.svg"
     },
     "location": {
       "codepoint": 61707,
@@ -62,6 +78,10 @@
       "codepoint": 61704,
       "source": "../src/set/more.svg"
     },
+    "notebook": {
+      "codepoint": 61719,
+      "source": "../src/set/notebook.svg"
+    },
     "pin": {
       "codepoint": 61715,
       "source": "../src/set/pin.svg"
@@ -69,6 +89,18 @@
     "pocket": {
       "codepoint": 61709,
       "source": "../src/set/pocket.svg"
+    },
+    "post": {
+      "codepoint": 61720,
+      "source": "../src/set/post.svg"
+    },
+    "radio-blank": {
+      "codepoint": 61723,
+      "source": "../src/set/radio-blank.svg"
+    },
+    "radio-fill": {
+      "codepoint": 61724,
+      "source": "../src/set/radio-fill.svg"
     },
     "refresh": {
       "codepoint": 61710,
