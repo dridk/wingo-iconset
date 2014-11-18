@@ -11,13 +11,104 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
-   id="svg6308"
+   id="svg5701"
    version="1.1"
    inkscape:version="0.91pre2 r13638"
    viewBox="0 0 48 48"
    sodipodi:docname="more.svg">
   <defs
-     id="defs6310" />
+     id="defs5703">
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="m 0,22.49975 1,0"
+       is_visible="true"
+       id="path-effect4173"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4171"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4167"
+       is_visible="true"
+       pattern="m 1.5356061,0.49975 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4165"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4161"
+       is_visible="true"
+       pattern="m 1.5356061,20.49975 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4159"
+       is_visible="true" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="m 1.5356061,10.49975 1,0"
+       is_visible="true"
+       id="path-effect4155"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4153"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4143"
+       is_visible="true"
+       pattern="m 0,-0.50024964 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4141"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,15 +116,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.765318"
-     inkscape:cx="19.057058"
-     inkscape:cy="11.812218"
+     inkscape:zoom="23.501733"
+     inkscape:cx="13.799186"
+     inkscape:cy="23.479536"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
-     inkscape:document-units="px" />
+     inkscape:document-units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata6313">
+     id="metadata5706">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -48,26 +143,21 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <rect
-       y="9.0000048"
-       x="21.000015"
-       height="5.9999962"
-       width="6"
-       id="rect7170"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="21"
-       x="21.000015"
-       height="6"
-       width="6"
-       id="rect7172"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="32.999996"
-       x="21.000015"
-       height="6.0000038"
-       width="6"
-       id="rect7174"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 26,13.5 A 2.5,2.5 0 0 1 23.5,16 2.5,2.5 0 0 1 21,13.5 2.5,2.5 0 0 1 23.5,11 2.5,2.5 0 0 1 26,13.5 Z"
+       id="path4150" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 26,13.5 A 2.5,2.5 0 0 1 23.5,16 2.5,2.5 0 0 1 21,13.5 2.5,2.5 0 0 1 23.5,11 2.5,2.5 0 0 1 26,13.5 Z"
+       id="circle4152" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 26,23.5 A 2.5,2.5 0 0 1 23.5,26 2.5,2.5 0 0 1 21,23.5 2.5,2.5 0 0 1 23.5,21 2.5,2.5 0 0 1 26,23.5 Z"
+       id="circle4154" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="M 26,33.5 A 2.5,2.5 0 0 1 23.5,36 2.5,2.5 0 0 1 21,33.5 2.5,2.5 0 0 1 23.5,31 2.5,2.5 0 0 1 26,33.5 Z"
+       id="circle4156" />
   </g>
 </svg>

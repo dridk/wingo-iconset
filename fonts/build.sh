@@ -1,2 +1,2 @@
 #!/bin/bash
-fontcustom.ruby2.1 compile ../src/set/ -f wingo
+fontcustom.ruby2.1 compile -c wingo.yml

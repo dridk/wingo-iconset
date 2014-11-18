@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "a9cc08a4f0a074932dea21ae350f4479edcd94c6c88cac2620228376bc019599",
-    "current": "a9cc08a4f0a074932dea21ae350f4479edcd94c6c88cac2620228376bc019599"
+    "previous": "fabc25f15a797a2e4e8cdb66ea8c4d464f268192bd81620e4ddf0a6686bb4d46",
+    "current": "fabc25f15a797a2e4e8cdb66ea8c4d464f268192bd81620e4ddf0a6686bb4d46"
   },
   "fonts": [
-    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.ttf",
-    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.svg",
-    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.woff",
-    "wingo/wingo_a9cc08a4f0a074932dea21ae350f4479.eot"
+    "wingo/wingo.ttf",
+    "wingo/wingo.svg",
+    "wingo/wingo.woff",
+    "wingo/wingo.eot"
   ],
   "glyphs": {
     "add": {
@@ -54,6 +54,10 @@
       "codepoint": 61708,
       "source": "../src/set/logo.svg"
     },
+    "logo-small": {
+      "codepoint": 61718,
+      "source": "../src/set/logo-small.svg"
+    },
     "more": {
       "codepoint": 61704,
       "source": "../src/set/more.svg"
@@ -88,35 +92,33 @@
     }
   },
   "options": {
-    "autowidth": false,
-    "config": false,
+    "autowidth": true,
+    "config": "wingo.yml",
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
-    "font_ascent": 448,
-    "font_descent": 64,
+    "font_ascent": 400,
+    "font_descent": 0,
     "font_design_size": 16,
     "font_em": 512,
     "font_name": "wingo",
-    "force": false,
+    "force": true,
     "input": {
-      "templates": "../src/set/",
-      "vectors": "../src/set/"
+      "templates": "../src/set",
+      "vectors": "../src/set"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
       "css": "wingo",
       "fonts": "wingo",
       "preview": "wingo"
     },
-    "preprocessor_path": null,
+    "preprocessor_path": "",
     "quiet": false,
     "templates": [
-      "css",
       "preview"
     ]
   },
   "templates": [
-    "wingo/wingo.css",
     "wingo/wingo-preview.html"
   ]
 }
