@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "dee257426e6f19642c54933c7ec8c8e24786afcd4f5e88287f54ef4aadb7f67d",
-    "current": "dee257426e6f19642c54933c7ec8c8e24786afcd4f5e88287f54ef4aadb7f67d"
+    "previous": "0988638689d6651b05103455af9427fe6d7d1bf3efbc1bfd9953eefe4c9999df",
+    "current": "0988638689d6651b05103455af9427fe6d7d1bf3efbc1bfd9953eefe4c9999df"
   },
   "fonts": [
     "wingo/wingo.ttf",
@@ -54,6 +54,10 @@
       "codepoint": 61714,
       "source": "../src/set/draw.svg"
     },
+    "erase": {
+      "codepoint": 61727,
+      "source": "../src/set/erase.svg"
+    },
     "gear": {
       "codepoint": 61725,
       "source": "../src/set/gear.svg"
@@ -81,6 +85,14 @@
     "notebook": {
       "codepoint": 61719,
       "source": "../src/set/notebook.svg"
+    },
+    "picture": {
+      "codepoint": 61728,
+      "source": "../src/set/picture.svg"
+    },
+    "picture-add": {
+      "codepoint": 61729,
+      "source": "../src/set/picture-add.svg"
     },
     "pin": {
       "codepoint": 61715,
@@ -118,9 +130,25 @@
       "codepoint": 61706,
       "source": "../src/set/search.svg"
     },
+    "size1": {
+      "codepoint": 61730,
+      "source": "../src/set/size1.svg"
+    },
+    "size2": {
+      "codepoint": 61731,
+      "source": "../src/set/size2.svg"
+    },
+    "size3": {
+      "codepoint": 61732,
+      "source": "../src/set/size3.svg"
+    },
     "trash": {
       "codepoint": 61717,
       "source": "../src/set/trash.svg"
+    },
+    "undo": {
+      "codepoint": 61733,
+      "source": "../src/set/undo.svg"
     }
   },
   "options": {
