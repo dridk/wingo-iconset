@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "aab012f2d40a7e9006d204409c13cdff65a71b6071ae9d35d06f61d1fcacc490",
-    "current": "aab012f2d40a7e9006d204409c13cdff65a71b6071ae9d35d06f61d1fcacc490"
+    "previous": "56786cea024d7092738a340e24e65bcf8fecc76ca6cfa878b1fb77ebecab7954",
+    "current": "56786cea024d7092738a340e24e65bcf8fecc76ca6cfa878b1fb77ebecab7954"
   },
   "fonts": [
     "wingo/wingo.ttf",
@@ -13,6 +13,10 @@
     "add": {
       "codepoint": 61711,
       "source": "../src/set/add.svg"
+    },
+    "alert": {
+      "codepoint": 61736,
+      "source": "../src/set/alert.svg"
     },
     "archive": {
       "codepoint": 61712,
@@ -81,6 +85,10 @@
     "more": {
       "codepoint": 61704,
       "source": "../src/set/more.svg"
+    },
+    "note": {
+      "codepoint": 61737,
+      "source": "../src/set/note.svg"
     },
     "notebook": {
       "codepoint": 61719,
